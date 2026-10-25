@@ -1,0 +1,57 @@
+h1, h2 {
+  color: green;
+}
+
+p {
+  color: gray;
+}
+ul {
+  border: 3px solid teal;
+}
+
+ol {
+  border: 3px solid purple;
+}
+
+ol, ul {
+  padding: 10px 25px;
+  border-radius: 4px;
+}
+body {
+  background-color: white;
+  color: #333333;
+  font:
+    1em / 1.4 "Helvetica Neue",
+    "Helvetica",
+    "Arial",
+    sans-serif;
+  padding: 1em;
+  margin: 0;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+h1 {
+  color: green;
+}
+
+dl {
+  color: gray;
+  margin: 0.5em 0;
+}
+
+dt {
+  font-weight: bold;
+  color: purple;
+}
